@@ -1,7 +1,7 @@
 - Hi there! I'm Tushar Prajapati 👋
 
 - 🌱 I’m currently working on react native.
-- 💞️ I’m looking to collaborate on ...
+- I have experience in iOS swift and java script 
 - 📫 [My Linkedin](https://www.linkedin.com/in/tushar-prajapati-531002161/)
 
 <!---
