@@ -1,7 +1,7 @@
 - Hi there! I'm Tushar Prajapati 👋
 
 - 🌱  I'm a Software Development Engineer working for a MNC service based company in India.
-- I have work experience in iOS swift and java script languages.
+- I have work experience in iOS swift and React native languages.
 - 📫 [My Linkedin](https://www.linkedin.com/in/tushar-prajapati-531002161/)
 
 <!---
